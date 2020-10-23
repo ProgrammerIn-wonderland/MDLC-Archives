@@ -4,6 +4,7 @@
 There are many types of computers that are used for everyday tasks.
 
 In this lesson, we'll explore what a computer is, the parts of a computer and how to interact with a computer.
+![comp. illustration](https://github.com/immortal-miku/MDLC-Archives/blob/main/Module%201/1/computers_illustration.jpg?raw=true)
 
 **By the end of this lesson you will be able to:**
 * Describe the functions of a computer
