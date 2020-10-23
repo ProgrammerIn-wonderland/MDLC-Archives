@@ -14,4 +14,4 @@ In this lesson, we'll explore what a computer is, the parts of a computer and ho
 
 ### [Continue](https://github.com/immortal-miku/MDLC-Archives/blob/main/Module%201/1/Lessonpt2.md)
 
-#### [<- Previous]() || [Next ->]()
+#### [<- Previous]() || [Next ->](https://github.com/immortal-miku/MDLC-Archives/blob/main/Module%201/1/Lessonpt2.md)
