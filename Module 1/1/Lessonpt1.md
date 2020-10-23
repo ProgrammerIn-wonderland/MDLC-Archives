@@ -1,6 +1,6 @@
 # Interact with a computer
 
-## introduction
+## Introduction
 There are many types of computers that are used for everyday tasks.
 
 In this lesson, we'll explore what a computer is, the parts of a computer and how to interact with a computer.
