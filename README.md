@@ -10,6 +10,6 @@ I made this because I was bored ig
 * [Module 5]()
 * [Module 6]()
 
-Credit to @Microsoft
+Credit to [@Microsoft](https://github.com/microsoft)
 
 Licensed Under Creative Commons License
