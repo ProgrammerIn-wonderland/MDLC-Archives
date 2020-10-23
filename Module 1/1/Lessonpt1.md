@@ -12,6 +12,6 @@ In this lesson, we'll explore what a computer is, the parts of a computer and ho
 * Describe the primary parts of a computer and the use of each part.
 * Describe the various types of modern personal computing devices and their uses.
 
-### (Continue)[https://github.com/immortal-miku/MDLC-Archives/blob/main/Module%201/1/Lessonpt2.md]
+### [Continue](https://github.com/immortal-miku/MDLC-Archives/blob/main/Module%201/1/Lessonpt2.md)
 
-#### (<- Previous)[] (Next ->)[]
+#### [<- Previous]() [Next ->]()
